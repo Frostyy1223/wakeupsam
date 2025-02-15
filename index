@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wake Up Sam</title>
+</head>
+<body>
+    <h1>Wake Up Sam</h1>
+    <button onclick="sendAlert()">Sam is Awake!</button>
+
+    <script>
+        function sendAlert() {
+            alert("Sam is awake! 🚀");
+        }
+    </script>
+</body>
+</html>
